@@ -1,0 +1,59 @@
+{
+  "packageName": "com.picsart.studio",
+  "versionName": "29.2.7",
+  "forceUpdate": false,
+  "ExpiredDate": "2025/08/22 02:20",
+  "description": "Official Release v4.0 is out!\nNew UI elements and themes.\nEnhanced performance and stability.\n Subscription free download \n new update available best performance",
+  "buttonText": " DOWNLOAD ",
+  "buttonUrl": "https://telegram.me/Officaldsmods",
+  "cancelButtonText": "Close",
+  "appListButton": {
+    "iconUrl1": "https://bit.ly/EM_ClickMe",
+    "iconUrl2": "https://bit.ly/EM_ClickMe2"
+  },
+  "appList": [
+    {
+      "iconUrl": "https://bit.ly/icon_CapCut",
+      "appName": "CapCut PRO",
+      "appVersion": "20.2.0",
+      "url": "https://telegram.me/EpicModder"
+    },
+    {
+      "iconUrl": "https://bit.ly/icon_PandaVPN",
+      "appName": "Panda VPN Lifetime",
+      "appVersion": "8.0.1",
+      "url": "https://t.me/c/2138847088/1281"
+    },
+    {
+      "iconUrl": "https://bit.ly/icon_Remini",
+      "appName": "Remini PRO",
+      "appVersion": "3.7.1070.202515697",
+      "url": "https://t.me/c/2138847088/1324"
+    },
+    {
+      "iconUrl": "ADD_YOU_IMAGE",
+      "appName": "Unknown",
+      "appVersion": "0.0.0",
+      "url": "https://telegram.me/EpicModder"
+    }
+  ],
+  "epicList": [
+    {
+      "iconUrl": "https://bit.ly/OfficalDSMods",
+      "url": "https://telegram.me/OfficalDSMods"
+    },
+    {
+      "iconUrl": "https://bit.ly/itshehzadaProfile",
+      "url": "https://telegram.me/itshehzada"
+    },
+    {
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png",
+      "url": "https://www.facebook.com/c/EpicModder"
+    },
+    {
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png",
+      "url": "https://instagram.com/itshehzada"
+    }
+  ]
+}
+
